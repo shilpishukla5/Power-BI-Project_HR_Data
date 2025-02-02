@@ -13,10 +13,20 @@ To develop a interactive dashboard of employees attendence, with all the importa
 Data Provided
 
 Excel Workbook with attendence of employees of three month April , May , June.Along with that abbriviation of all leaves and types of halfday.
+
+Different types of leaves  and mode of work available
 ![attendance key](https://github.com/user-attachments/assets/f04f7a1b-5659-4a56-9017-f25d37ecd5f5)
+
+June month raw data
 ![Screenshot 2025-02-03 001516](https://github.com/user-attachments/assets/85dca319-eb97-454a-93dc-0bba9ccf479e)
+
+June month raw data
 ![2](https://github.com/user-attachments/assets/450deef0-1dad-4128-add6-38503a9590db)
+
+May month raw data
 ![3](https://github.com/user-attachments/assets/14a74a94-9d1d-4b93-9a00-01e7fb37d671)
+
+April month raw data
 ![4](https://github.com/user-attachments/assets/5080178f-edb0-461f-96f6-e9a4160b174f)
 
 
