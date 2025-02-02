@@ -15,6 +15,7 @@ Data Provided
 Excel Workbook with attendence of employees of three month April , May , June.Along with that abbriviation of all leaves and types of halfday.
 
 Different types of leaves  and mode of work available
+
 ![attendance key](https://github.com/user-attachments/assets/f04f7a1b-5659-4a56-9017-f25d37ecd5f5)
 
 June month raw data
