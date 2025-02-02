@@ -3,8 +3,8 @@
 ## OVERVIEW
 
 ATliq Technologies is an IT company with employees working on both mode that is work from home and work from office.HR of the company Pinali mandalia requires a detailed data analysis of its employee's attendance, so that she can use the outcome for vital decision making. 
-Owner is keenly interested to know that on which day of month organization can plan crucial team building activity or team lunch so that maximum employee can attend it. Owner will also use this data to know the month or period of the year in which percentage of sick leave is heghest so that it can take effective measure to prevent any spreak of seasonal flu or epidamic by using sanatization or vaccinnation drive so that employees can work efficiently . 
-This will also help the whole organization to get on the months for taking maximum number of project and to know months that are not efficient enough to take many projects.Company is now going to shift from excel to power bi for its HR data. They also want that whatever solution developed will be applicable to all the data in  the future months as dashboard get updated everyday.
+Owner is keenly interested to know that on which day of month organization can plan crucial team building activity or team lunch so that maximum employee can attend it. Owner will also use this data to know the month or period of the year in which percentage of sick leave is highest so that it can take effective measures to prevent any spread of seasonal flu or epidemic by using sanitization or vaccination drive so that employees can work efficiently. 
+This will also help the whole organization to get on the months for taking maximum number of project and to know months that are not efficient enough to take many projects. Company is now going to shift from excel to power bi for its HR data. They also want that whatever solution developed will be applicable to all the data in the future months as dashboard get updated every day.
 
 # OBJECTIVE
 
