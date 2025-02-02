@@ -13,6 +13,15 @@ To develop a interactive dashboard of employees attendence, with all the importa
 Data Provided
 
 Excel Workbook with attendence of employees of three month April , May , June.Along with that abbriviation of all leaves and types of halfday.
+![attendance key](https://github.com/user-attachments/assets/f04f7a1b-5659-4a56-9017-f25d37ecd5f5)
+![Screenshot 2025-02-03 001516](https://github.com/user-attachments/assets/85dca319-eb97-454a-93dc-0bba9ccf479e)
+![2](https://github.com/user-attachments/assets/450deef0-1dad-4128-add6-38503a9590db)
+![3](https://github.com/user-attachments/assets/14a74a94-9d1d-4b93-9a00-01e7fb37d671)
+![4](https://github.com/user-attachments/assets/5080178f-edb0-461f-96f6-e9a4160b174f)
+
+
+
+
 
 ## Dashboard development Process
 
@@ -20,10 +29,18 @@ Excel Workbook with attendence of employees of three month April , May , June.Al
 2. Meeting scheduled with Owner, HR and Data Analyst.
 3. Requirement Gathering
 4. Got the data in Power query editor for transformation
-5. Data manupulation and data transformaation( Removing extra columns , changing fist row as header,Npivot the columns,creating calculated columns using M language)
+5. Data manipulation and data transformaation( Removing extra columns , changing fist row as header,Npivot the columns,creating calculated columns using M language)
 6. Data Cleaning
 7. laoding the data to Power BI dashboard
 8. Creating measures using DAX
 9. Creating tables as per requirement
 10. Creating chats as per requirement
-11. 
+
+ # Dashboard final Image
+ ![april](https://github.com/user-attachments/assets/ebc318ef-344c-4140-a036-bd79469b709a)
+ ![may](https://github.com/user-attachments/assets/c6a1409f-5ac5-433f-abf8-6e96b765c029)
+ ![june](https://github.com/user-attachments/assets/56944012-c1a6-4af3-b830-5b8492e59a4e)
+
+
+
+ 
