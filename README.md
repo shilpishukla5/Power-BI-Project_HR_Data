@@ -37,8 +37,11 @@ Excel Workbook with attendence of employees of three month April , May , June.Al
 10. Creating chats as per requirement
 
  # Dashboard final Image
+ April month outcome
  ![april](https://github.com/user-attachments/assets/ebc318ef-344c-4140-a036-bd79469b709a)
+ May month outcome
  ![may](https://github.com/user-attachments/assets/c6a1409f-5ac5-433f-abf8-6e96b765c029)
+ June month outcome
  ![june](https://github.com/user-attachments/assets/56944012-c1a6-4af3-b830-5b8492e59a4e)
 
 
